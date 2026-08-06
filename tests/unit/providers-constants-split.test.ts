@@ -17,7 +17,8 @@
 // sarvam+plamo in regional) to 193, then #8170 (inception/typhoon — inception in frontier-labs,
 // typhoon in regional) to 195, then Firecrawl dual search+fetch under SEARCH_PROVIDERS.firecrawl
 // (removed specialty-media duplicate) to 194, #8861 (Xiaomi MiMo Token Plan, regional) to 195, and
-// the Cheaper Inference gateway (OSS-sponsor reseller, gateways family) to 196.
+// the Cheaper Inference gateway (OSS-sponsor reseller, gateways family) to 196. The live release
+// catalog has one further entry; retiring GitHub Models brings the API-key total from 197 to 196.
 import { test } from "node:test";
 import assert from "node:assert/strict";
 
